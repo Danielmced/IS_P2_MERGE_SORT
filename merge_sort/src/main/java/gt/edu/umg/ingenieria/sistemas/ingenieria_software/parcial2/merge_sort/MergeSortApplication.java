@@ -1,0 +1,13 @@
+package gt.edu.umg.ingenieria.sistemas.ingenieria_software.parcial2.merge_sort;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MergeSortApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MergeSortApplication.class, args);
+	}
+
+}
